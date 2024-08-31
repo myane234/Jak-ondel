@@ -1,0 +1,23 @@
+{
+  "name": "jakondel",
+  "version": "1.0.0",
+  "description": "jak ondel",
+  "main": "script.js",
+  "scripts": {
+    "test": "s"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myane234/JakOndel.git"
+  },
+  "keywords": [
+    "Jak",
+    "ondel"
+  ],
+  "author": "myane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myane234/JakOndel/issues"
+  },
+  "homepage": "https://github.com/myane234/JakOndel#readme"
+}
